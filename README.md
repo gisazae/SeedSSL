@@ -1,6 +1,6 @@
 # Wrapper python Framework for Pentesting Tasks
-# SemilleroInvestigacion_SeguridadSSL - Universidad de Caldas
-# Created by Sebastián Agudelo
+SemilleroInvestigacion_SeguridadSSL - Universidad de Caldas
+Created by Sebastián Agudelo
 This tool is a meta-framework developed by some students as a project for the *"SeguridadSSL"* research seed of the *"Universidad de Caldas"*.
 
 
