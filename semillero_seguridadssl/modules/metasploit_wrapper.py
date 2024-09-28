@@ -56,7 +56,7 @@ class MetasploitClient:
         self.msfClient = MsfRpcClient(
             password,
             username=username or 'msf',
-            port=port or '55553',
+            port=port or '55553-55559',
             server=server or '127.0.0.1',
             ssl=ssl or False,
         )
