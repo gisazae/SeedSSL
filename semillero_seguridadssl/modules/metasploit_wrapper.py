@@ -19,7 +19,7 @@ class ModuleNotSelectedException(Exception):
 class ClientNotAvailableException(Exception):
     pass
 
-
+#Include the REST API New
 class MetasploitClient:
     def __init__(self):
         self.msfClient = None
